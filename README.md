@@ -15,7 +15,7 @@ text = """
 """
 ```
 ```
-# Add parameter "horizontal=True" for horizontal fade
+# Use parameter "horizontal=True" for horizontal fade
 faded_text = fade.blackwhite(text, horizontal=True)
 ```
 
