@@ -15,6 +15,13 @@ text = """
 """
 ```
 ```
+# Add parameter "horizontal=True" for horizontal fade
+faded_text = fade.blackwhite(text, horizontal=True)
+```
+
+
+
+```
 # Fading a ascii art text (black-white)
 faded_text = fade.blackwhite(text)
 print(faded_text)
